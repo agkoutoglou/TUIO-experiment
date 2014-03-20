@@ -9,3 +9,6 @@ Fiducial 3 - Adjusts size of the image by rotation
 Fiducial 5 - Inserts an image in the x-y coordinates.
 Fiducial 5 - Inserts another one image in the x-y coordinates.
 Fiducial 10 - Adjusts length of the image by rotation
+
+
+Supports Community Core Vision solution for the simulator.
