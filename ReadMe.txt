@@ -1,3 +1,6 @@
+TUIO Example
+============
+
 In the process to get familiar with TUIO protocol, this is a project in Processing language, to experiment with image processing. Below follows the list of the fiducials used and their functions:
 
 Fiducial 1 - Adjusts length of the image by rotation
